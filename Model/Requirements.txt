@@ -1,0 +1,12 @@
+# Core data and modelling libraries
+pandas>=3.0
+numpy>=2.0
+scikit-learn>=1.5
+
+# Plotting (EDA figures and residual plots)
+matplotlib>=3.8
+seaborn>=0.13
+
+# Notebook support (remove if you run the code as a plain .py script)
+jupyter>=1.0
+ipykernel>=6.29
